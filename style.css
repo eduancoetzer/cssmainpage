@@ -1,0 +1,27 @@
+body
+{
+   display: flex;
+   flex-direction: column;
+}
+
+.head
+{
+    background-color: #1f2937;
+    color: #f9faf8;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.foot
+{
+    background-color: #1f2937;
+}
+
+a
+{
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+}
